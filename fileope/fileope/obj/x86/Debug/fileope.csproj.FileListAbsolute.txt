@@ -1,0 +1,5 @@
+C:\Users\admin\Documents\Projects\fileope\fileope\bin\Debug\fileope.exe
+C:\Users\admin\Documents\Projects\fileope\fileope\bin\Debug\fileope.pdb
+C:\Users\admin\Documents\Projects\fileope\fileope\obj\x86\Debug\fileope.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Projects\fileope\fileope\obj\x86\Debug\fileope.exe
+C:\Users\admin\Documents\Projects\fileope\fileope\obj\x86\Debug\fileope.pdb

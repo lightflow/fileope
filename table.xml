@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<SerializableDictionaryOfStringInt32>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\JOWBaseComponent.lua</string>
+    </key>
+    <value>
+      <int>0</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\JOWBaseUI.lua</string>
+    </key>
+    <value>
+      <int>1798</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\JOWModle.lua</string>
+    </key>
+    <value>
+      <int>2478</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\JOWUIFun.lua</string>
+    </key>
+    <value>
+      <int>3041</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\modmgr.lua</string>
+    </key>
+    <value>
+      <int>6695</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\ActivitiesMod\ActivitiesMod.lua</string>
+    </key>
+    <value>
+      <int>8404</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\ActivitiesMod\OpeningFundComponents\FundGoalView.lua</string>
+    </key>
+    <value>
+      <int>14124</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\ActivitiesMod\OpeningFundComponents\FundTabView.lua</string>
+    </key>
+    <value>
+      <int>16818</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\ActivitiesMod\OpeningFundComponents\OpeningFundRewardItem.lua</string>
+    </key>
+    <value>
+      <int>21482</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\ActivitiesMod\OpeningFundComponents\WelfareTabView.lua</string>
+    </key>
+    <value>
+      <int>23235</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\ActivitiesMod\View\ActivitiesOpeningFundView.lua</string>
+    </key>
+    <value>
+      <int>26756</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\ActivitiesMod\View\ActivitiesSettings.lua</string>
+    </key>
+    <value>
+      <int>33071</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\ActivitiesMod\View\ActivitiesTabView.lua</string>
+    </key>
+    <value>
+      <int>34532</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\ActivitiesMod\View\ActivitiesView.lua</string>
+    </key>
+    <value>
+      <int>37542</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\ActivitiesMod\View\ActivitySignedupView.lua</string>
+    </key>
+    <value>
+      <int>41574</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\CarnivalMod\CarnivalMod.lua</string>
+    </key>
+    <value>
+      <int>48948</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\CarnivalMod\view\CarnivalItem.lua</string>
+    </key>
+    <value>
+      <int>51336</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\CarnivalMod\view\CarnivalOpenbox.lua</string>
+    </key>
+    <value>
+      <int>54341</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\CarnivalMod\view\CarnivalRight.lua</string>
+    </key>
+    <value>
+      <int>59428</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\CarnivalMod\view\CarnivalTab.lua</string>
+    </key>
+    <value>
+      <int>65826</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\CarnivalMod\view\CarnivalView.lua</string>
+    </key>
+    <value>
+      <int>69152</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\Common\Item.lua</string>
+    </key>
+    <value>
+      <int>72538</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\datamod\datamod.lua</string>
+    </key>
+    <value>
+      <int>73000</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\RewardsMod\View\RewardsView.lua</string>
+    </key>
+    <value>
+      <int>74189</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\SceneMod\SceneMod.lua</string>
+    </key>
+    <value>
+      <int>76056</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\testmod\testmod.lua</string>
+    </key>
+    <value>
+      <int>77926</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\testmod\view\testview.lua</string>
+    </key>
+    <value>
+      <int>78972</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\UserbackMod\UserbackMod.lua</string>
+    </key>
+    <value>
+      <int>80340</int>
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>C:\Users\admin\Documents\Tencent Files\792802515\FileRecv\game\UserbackMod\view\UserbackView.lua</string>
+    </key>
+    <value>
+      <int>86096</int>
+    </value>
+  </SerializableDictionary>
+</SerializableDictionaryOfStringInt32>
